@@ -1,0 +1,79 @@
+Scanning for Jiobits. Please wait...
+[40m[36m1:RSSI - -69, Device Name - 003300093136, Address - 61:62:91:2e:eb:fd[0m
+[40m[36m2:RSSI - -81, Device Name - ADeACzE2UQ4xNDY1, Address - 59:92:34:b7:fe:01[0m
+[40m[36m3:RSSI - -89, Device Name - Jiobit, Address - 53:7f:96:60:5b:8c[0m
+[40m[36m4:RSSI - -91, Device Name - Charge 2, Address - f1:1e:71:4d:fe:ce[0m
+[40m[36m5:RSSI - -93, Device Name - rES703:7F, Address - 00:0b:57:42:03:7f[0m
+[40m[36m6:RSSI - -93, Device Name - rES7EF:45, Address - 00:0b:57:41:ef:45[0m
+[40m[36m7:RSSI - -94, Device Name - rES7CF:56, Address - 00:0b:57:3e:cf:56[0m
+[40m[36m8:RSSI - -95, Device Name - rES706:E9, Address - 00:0b:57:42:06:e9[0m
+[40m[36m9:RSSI - -98, Device Name - rES70F:F0, Address - 00:0b:57:3d:0f:f0[0m
+[40m[36m10:RSSI - -98, Device Name - rES752:8E, Address - 00:0b:57:3c:52:8e[0m
+select a device index from the list above > [40m[36mcharacteristic 00002a05-0000-1000-8000-00805f9b34fb handle: 0x102[0m
+[40m[36mcharacteristic 00002a29-0000-1000-8000-00805f9b34fb handle: 0x105[0m
+[40m[36mcharacteristic 00002a25-0000-1000-8000-00805f9b34fb handle: 0x107[0m
+[40m[36mcharacteristic 00002a18-0000-1000-8000-00805f9b34fb handle: 0x109[0m
+[40m[36mcharacteristic 00002a00-0000-1000-8000-00805f9b34fb handle: 0x10c[0m
+[40m[36mcharacteristic 00002a01-0000-1000-8000-00805f9b34fb handle: 0x10e[0m
+[40m[36mcharacteristic 00002a06-0000-1000-8000-00805f9b34fb handle: 0x111[0m
+[40m[36mcharacteristic 00002a07-0000-1000-8000-00805f9b34fb handle: 0x114[0m
+[40m[36mcharacteristic 6e400002-b5a3-f393-e0a9-e50e24dcca9e handle: 0x120[0m
+[40m[36mcharacteristic 6e400003-b5a3-f393-e0a9-e50e24dcca9e handle: 0x122[0m
+[40m[36mcharacteristic 6e400004-b5a3-f393-e0a9-e50e24dcca9e handle: 0x124[0m
+[40m[36mcharacteristic 6e400005-b5a3-f393-e0a9-e50e24dcca9e handle: 0x126[0m
+[40m[36mcharacteristic 6e400006-b5a3-f393-e0a9-e50e24dcca9e handle: 0x128[0m
+[40m[36mcharacteristic 6e400007-b5a3-f393-e0a9-e50e24dcca9e handle: 0x12a[0m
+[40m[36mcharacteristic 00002a19-0000-1000-8000-00805f9b34fb handle: 0x12c[0m
+[40m[36mcharacteristic 6e400008-b5a3-f393-e0a9-e50e24dcca9e handle: 0x12e[0m
+[40m[36mcharacteristic 6e400009-b5a3-f393-e0a9-e50e24dcca9e handle: 0x130[0m
+[40m[36mcharacteristic 6e40000a-b5a3-f393-e0a9-e50e24dcca9e handle: 0x132[0m
+[40m[36mcharacteristic 6e40000b-b5a3-f393-e0a9-e50e24dcca9e handle: 0x134[0m
+[40m[36mcharacteristic e3dd50bf-f7a7-4e99-838e-570a086c666b handle: 0x137[0m
+[40m[36mcharacteristic 92e86c7a-d961-4091-b74f-2409e72efe36 handle: 0x13a[0m
+[40m[36mUnhandled cHandle[0m
+Connection complete
+[36mpzpzs
+ERROR: Unkn[0m[36mown Command
+> [0m[36mConnecting...
+[0m[36mConnecting...
+[0m[36mConnecting...
+[0m[36mConnecting...
+[0m[36mpspzs
+ERROR: Unkn[0m[36mown Command
+> [0m[36mConnecting...
+[0m[36mjiostate 5->3
+[0m[36mpzs
+[0m[36m> [0m[36mscan
+[0m[36m44D9E78A3B41,-64
+8[0m[36m4002DBF025B,-50
+F0[0m[36m9CE9146D15,-70
+705[0m[36mA0FBCE307,-73
+2025[0m[36m64A03F3B,-59
+10050[0m[36m173BE8A,-63
+F69FC2[0m[36m3A4171,-74
+44D9E78[0m[36mA3481,-72
+84002DBF[0m[36m025A,-50
+1C1448273[0m[36m110,-74
+10050173BE[0m[36m8B,-65
+44D9E78A3B4[0m[36m0,-62
+F05C19B25F02[0m[36m,-76
+F05C19B25F03,[0m[36m-75
+8C7F3B5DECE0,-[0m[36m68
+A22AA844CCE1,-6[0m[36m4
+6CC2171C9FC9,-63[0m[36m
+3497F6203700,-54[0m[36m
+822AA844CCE1,-65
+[0m[36mA45D3643E8A0,-58
+7[0m[36m8F29E7E40EB,-66
+E4[0m[36mF4C6160A1A,-53
+B0B[0m[36m98A612C2A,-38
+A22A[0m[36mA844CC40,-65
+A22AA[0m[36m844CBBA,-57
+44D9E7[0m[36m8A5721,-56
+802AA84[0m[36m4CC40,-64
+822AA844[0m[36mCBBA,-57
+822AA844C[0m[36mC40,-65
+922AA844CC[0m[36m40,-64
+F69FC23A332[0m[36mC,-68
+922AA844CBBA[0m[36m,-60
+> [0m
