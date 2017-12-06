@@ -103,8 +103,8 @@ class BTConnectedDevice(object):
         self.delegate = BLEConsoleDelegate()
         self.peripheral.withDelegate(self.delegate)
         self.print_chars_and_handles()
-        self.auth_characteristic = self.get_char("6E400005-B5A3-F393-E0A9-E50E24DCCA9E")
-        self.auth_characteristic.write(struct.pack("16s", "iwanttobeajiobit"), False)
+        #self.auth_characteristic = self.get_char("6E400005-B5A3-F393-E0A9-E50E24DCCA9E")
+        #self.auth_characteristic.write(struct.pack("16s", "iwanttobeajiobit"), False)
         self.console_enable_char = self.get_char("6E400004-B5A3-F393-E0A9-E50E24DCCA9E")
         self.console_enable_char.write(struct.pack('16s', "iwanttobeajiobit"), False)
 
