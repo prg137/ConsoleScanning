@@ -38,7 +38,7 @@ def main():
                     if (command.find('loop') != -1):
                         a,b,c = command.split(' ')
                         for n in int(b):
-                            command  += sys.stdin.readline()
+                            c  += sys.stdin.readline()
                     else:
                         command  += sys.stdin.readline()
                 if '\n' in command:
